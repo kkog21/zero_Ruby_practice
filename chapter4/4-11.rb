@@ -1,0 +1,2 @@
+drinks = []
+puts drinks
